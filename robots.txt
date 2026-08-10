@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshee-kazino-na-telefon.github.io
+Sitemap: https://luchshee-kazino-na-telefon.github.io/sitemap.xml
